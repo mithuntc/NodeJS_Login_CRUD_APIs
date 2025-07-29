@@ -28,4 +28,7 @@ How to clone
 | User List  | `/api/users`     | Users List           |
 
 **Note**: **This repository must be cloned and run on your local system to test the APIs using Postman or Rest Assured (Automation).**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Once this repository is cloned and running, we can use **https://github.com/mithuntc/NodeJS_CRUD_API_Test_RestAssured** to clone and run the automation tests. All the instructions are provided in the test documentation and the README.md file.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
