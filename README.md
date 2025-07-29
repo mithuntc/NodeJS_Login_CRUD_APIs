@@ -27,6 +27,5 @@ How to clone
 | Login      | `/api/login`     | Login                |
 | User List  | `/api/users`     | Users List           |
 
-This repo must me cloned and running in local system in order to test the apis in postman & Rest Assured (Automation)
-
+**Note**: **This repository must be cloned and run on your local system to test the APIs using Postman or Rest Assured (Automation).**
 
